@@ -1,0 +1,429 @@
+{
+    "AIPlayerAgent_HL": {
+        "checkpoints": [
+            {
+                "steps": 49972,
+                "file_path": "results\\exploration_hierachical_gamespaces\\AIPlayerAgent_HL\\AIPlayerAgent_HL-49972.onnx",
+                "reward": null,
+                "creation_time": 1661946945.3902721,
+                "auxillary_file_paths": [
+                    "results\\exploration_hierachical_gamespaces\\AIPlayerAgent_HL\\AIPlayerAgent_HL-49972.pt"
+                ]
+            },
+            {
+                "steps": 99956,
+                "file_path": "results\\exploration_hierachical_gamespaces\\AIPlayerAgent_HL\\AIPlayerAgent_HL-99956.onnx",
+                "reward": -62.363192558288574,
+                "creation_time": 1661947031.1693094,
+                "auxillary_file_paths": [
+                    "results\\exploration_hierachical_gamespaces\\AIPlayerAgent_HL\\AIPlayerAgent_HL-99956.pt"
+                ]
+            },
+            {
+                "steps": 149905,
+                "file_path": "results\\exploration_hierachical_gamespaces\\AIPlayerAgent_HL\\AIPlayerAgent_HL-149905.onnx",
+                "reward": -14.88978099822998,
+                "creation_time": 1661947118.9402835,
+                "auxillary_file_paths": [
+                    "results\\exploration_hierachical_gamespaces\\AIPlayerAgent_HL\\AIPlayerAgent_HL-149905.pt"
+                ]
+            },
+            {
+                "steps": 199983,
+                "file_path": "results\\exploration_hierachical_gamespaces\\AIPlayerAgent_HL\\AIPlayerAgent_HL-199983.onnx",
+                "reward": -4.805219316482544,
+                "creation_time": 1661947211.957366,
+                "auxillary_file_paths": [
+                    "results\\exploration_hierachical_gamespaces\\AIPlayerAgent_HL\\AIPlayerAgent_HL-199983.pt"
+                ]
+            },
+            {
+                "steps": 249990,
+                "file_path": "results\\exploration_hierachical_gamespaces\\AIPlayerAgent_HL\\AIPlayerAgent_HL-249990.onnx",
+                "reward": 1.1312613300979137,
+                "creation_time": 1661947313.9351609,
+                "auxillary_file_paths": [
+                    "results\\exploration_hierachical_gamespaces\\AIPlayerAgent_HL\\AIPlayerAgent_HL-249990.pt"
+                ]
+            },
+            {
+                "steps": 299992,
+                "file_path": "results\\exploration_hierachical_gamespaces\\AIPlayerAgent_HL\\AIPlayerAgent_HL-299992.onnx",
+                "reward": 1.7816315392653148,
+                "creation_time": 1661947428.9949806,
+                "auxillary_file_paths": [
+                    "results\\exploration_hierachical_gamespaces\\AIPlayerAgent_HL\\AIPlayerAgent_HL-299992.pt"
+                ]
+            },
+            {
+                "steps": 349992,
+                "file_path": "results\\exploration_hierachical_gamespaces\\AIPlayerAgent_HL\\AIPlayerAgent_HL-349992.onnx",
+                "reward": 1.7983171145121257,
+                "creation_time": 1661947548.2624617,
+                "auxillary_file_paths": [
+                    "results\\exploration_hierachical_gamespaces\\AIPlayerAgent_HL\\AIPlayerAgent_HL-349992.pt"
+                ]
+            },
+            {
+                "steps": 399995,
+                "file_path": "results\\exploration_hierachical_gamespaces\\AIPlayerAgent_HL\\AIPlayerAgent_HL-399995.onnx",
+                "reward": 1.7985985619681222,
+                "creation_time": 1661947669.189217,
+                "auxillary_file_paths": [
+                    "results\\exploration_hierachical_gamespaces\\AIPlayerAgent_HL\\AIPlayerAgent_HL-399995.pt"
+                ]
+            },
+            {
+                "steps": 449993,
+                "file_path": "results\\exploration_hierachical_gamespaces\\AIPlayerAgent_HL\\AIPlayerAgent_HL-449993.onnx",
+                "reward": 1.7983742011220831,
+                "creation_time": 1661947789.3342764,
+                "auxillary_file_paths": [
+                    "results\\exploration_hierachical_gamespaces\\AIPlayerAgent_HL\\AIPlayerAgent_HL-449993.pt"
+                ]
+            },
+            {
+                "steps": 499994,
+                "file_path": "results\\exploration_hierachical_gamespaces\\AIPlayerAgent_HL\\AIPlayerAgent_HL-499994.onnx",
+                "reward": 1.795447826385498,
+                "creation_time": 1661947886.2880778,
+                "auxillary_file_paths": [
+                    "results\\exploration_hierachical_gamespaces\\AIPlayerAgent_HL\\AIPlayerAgent_HL-499994.pt"
+                ]
+            },
+            {
+                "steps": 549998,
+                "file_path": "results\\exploration_hierachical_gamespaces\\AIPlayerAgent_HL\\AIPlayerAgent_HL-549998.onnx",
+                "reward": 1.7972537179787953,
+                "creation_time": 1661948003.879946,
+                "auxillary_file_paths": [
+                    "results\\exploration_hierachical_gamespaces\\AIPlayerAgent_HL\\AIPlayerAgent_HL-549998.pt"
+                ]
+            },
+            {
+                "steps": 599994,
+                "file_path": "results\\exploration_hierachical_gamespaces\\AIPlayerAgent_HL\\AIPlayerAgent_HL-599994.onnx",
+                "reward": 1.7982186079025269,
+                "creation_time": 1661948123.616159,
+                "auxillary_file_paths": [
+                    "results\\exploration_hierachical_gamespaces\\AIPlayerAgent_HL\\AIPlayerAgent_HL-599994.pt"
+                ]
+            },
+            {
+                "steps": 649995,
+                "file_path": "results\\exploration_hierachical_gamespaces\\AIPlayerAgent_HL\\AIPlayerAgent_HL-649995.onnx",
+                "reward": 1.79531462987264,
+                "creation_time": 1661948240.067921,
+                "auxillary_file_paths": [
+                    "results\\exploration_hierachical_gamespaces\\AIPlayerAgent_HL\\AIPlayerAgent_HL-649995.pt"
+                ]
+            },
+            {
+                "steps": 699991,
+                "file_path": "results\\exploration_hierachical_gamespaces\\AIPlayerAgent_HL\\AIPlayerAgent_HL-699991.onnx",
+                "reward": 1.7937759757041931,
+                "creation_time": 1661948361.1967025,
+                "auxillary_file_paths": [
+                    "results\\exploration_hierachical_gamespaces\\AIPlayerAgent_HL\\AIPlayerAgent_HL-699991.pt"
+                ]
+            },
+            {
+                "steps": 749990,
+                "file_path": "results\\exploration_hierachical_gamespaces\\AIPlayerAgent_HL\\AIPlayerAgent_HL-749990.onnx",
+                "reward": 1.7959667444229126,
+                "creation_time": 1661948481.276457,
+                "auxillary_file_paths": [
+                    "results\\exploration_hierachical_gamespaces\\AIPlayerAgent_HL\\AIPlayerAgent_HL-749990.pt"
+                ]
+            },
+            {
+                "steps": 799995,
+                "file_path": "results\\exploration_hierachical_gamespaces\\AIPlayerAgent_HL\\AIPlayerAgent_HL-799995.onnx",
+                "reward": 1.79696966542138,
+                "creation_time": 1661948601.5922098,
+                "auxillary_file_paths": [
+                    "results\\exploration_hierachical_gamespaces\\AIPlayerAgent_HL\\AIPlayerAgent_HL-799995.pt"
+                ]
+            },
+            {
+                "steps": 849991,
+                "file_path": "results\\exploration_hierachical_gamespaces\\AIPlayerAgent_HL\\AIPlayerAgent_HL-849991.onnx",
+                "reward": 1.79876743044172,
+                "creation_time": 1661948722.3163953,
+                "auxillary_file_paths": [
+                    "results\\exploration_hierachical_gamespaces\\AIPlayerAgent_HL\\AIPlayerAgent_HL-849991.pt"
+                ]
+            },
+            {
+                "steps": 899990,
+                "file_path": "results\\exploration_hierachical_gamespaces\\AIPlayerAgent_HL\\AIPlayerAgent_HL-899990.onnx",
+                "reward": 1.7987111409505208,
+                "creation_time": 1661948845.9679651,
+                "auxillary_file_paths": [
+                    "results\\exploration_hierachical_gamespaces\\AIPlayerAgent_HL\\AIPlayerAgent_HL-899990.pt"
+                ]
+            },
+            {
+                "steps": 949993,
+                "file_path": "results\\exploration_hierachical_gamespaces\\AIPlayerAgent_HL\\AIPlayerAgent_HL-949993.onnx",
+                "reward": 1.7985985619681222,
+                "creation_time": 1661948974.2122867,
+                "auxillary_file_paths": [
+                    "results\\exploration_hierachical_gamespaces\\AIPlayerAgent_HL\\AIPlayerAgent_HL-949993.pt"
+                ]
+            },
+            {
+                "steps": 999991,
+                "file_path": "results\\exploration_hierachical_gamespaces\\AIPlayerAgent_HL\\AIPlayerAgent_HL-999991.onnx",
+                "reward": 1.799105167388916,
+                "creation_time": 1661949096.8886747,
+                "auxillary_file_paths": [
+                    "results\\exploration_hierachical_gamespaces\\AIPlayerAgent_HL\\AIPlayerAgent_HL-999991.pt"
+                ]
+            },
+            {
+                "steps": 1049998,
+                "file_path": "results\\exploration_hierachical_gamespaces\\AIPlayerAgent_HL\\AIPlayerAgent_HL-1049998.onnx",
+                "reward": 1.7984723052032043,
+                "creation_time": 1661949211.1057012,
+                "auxillary_file_paths": [
+                    "results\\exploration_hierachical_gamespaces\\AIPlayerAgent_HL\\AIPlayerAgent_HL-1049998.pt"
+                ]
+            },
+            {
+                "steps": 1099991,
+                "file_path": "results\\exploration_hierachical_gamespaces\\AIPlayerAgent_HL\\AIPlayerAgent_HL-1099991.onnx",
+                "reward": 1.7984701519191013,
+                "creation_time": 1661949324.916072,
+                "auxillary_file_paths": [
+                    "results\\exploration_hierachical_gamespaces\\AIPlayerAgent_HL\\AIPlayerAgent_HL-1099991.pt"
+                ]
+            },
+            {
+                "steps": 1111641,
+                "file_path": "results\\exploration_hierachical_gamespaces\\AIPlayerAgent_HL\\AIPlayerAgent_HL-1111641.onnx",
+                "reward": 1.7984726550309889,
+                "creation_time": 1661949351.6110177,
+                "auxillary_file_paths": [
+                    "results\\exploration_hierachical_gamespaces\\AIPlayerAgent_HL\\AIPlayerAgent_HL-1111641.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1111641,
+            "file_path": "results\\exploration_hierachical_gamespaces\\AIPlayerAgent_HL.onnx",
+            "reward": 1.7984726550309889,
+            "creation_time": 1661949351.6110177,
+            "auxillary_file_paths": [
+                "results\\exploration_hierachical_gamespaces\\AIPlayerAgent_HL\\AIPlayerAgent_HL-1111641.pt"
+            ]
+        }
+    },
+    "AIPlayerAgent_LL": {
+        "checkpoints": [
+            {
+                "steps": 49968,
+                "file_path": "results\\exploration_hierachical_gamespaces\\AIPlayerAgent_LL\\AIPlayerAgent_LL-49968.onnx",
+                "reward": null,
+                "creation_time": 1661947017.5011299,
+                "auxillary_file_paths": [
+                    "results\\exploration_hierachical_gamespaces\\AIPlayerAgent_LL\\AIPlayerAgent_LL-49968.pt"
+                ]
+            },
+            {
+                "steps": 99916,
+                "file_path": "results\\exploration_hierachical_gamespaces\\AIPlayerAgent_LL\\AIPlayerAgent_LL-99916.onnx",
+                "reward": -17.295798710414342,
+                "creation_time": 1661947162.3784676,
+                "auxillary_file_paths": [
+                    "results\\exploration_hierachical_gamespaces\\AIPlayerAgent_LL\\AIPlayerAgent_LL-99916.pt"
+                ]
+            },
+            {
+                "steps": 149997,
+                "file_path": "results\\exploration_hierachical_gamespaces\\AIPlayerAgent_LL\\AIPlayerAgent_LL-149997.onnx",
+                "reward": 0.5495963202368829,
+                "creation_time": 1661947292.841204,
+                "auxillary_file_paths": [
+                    "results\\exploration_hierachical_gamespaces\\AIPlayerAgent_LL\\AIPlayerAgent_LL-149997.pt"
+                ]
+            },
+            {
+                "steps": 199998,
+                "file_path": "results\\exploration_hierachical_gamespaces\\AIPlayerAgent_LL\\AIPlayerAgent_LL-199998.onnx",
+                "reward": 1.7435346196607215,
+                "creation_time": 1661947414.691954,
+                "auxillary_file_paths": [
+                    "results\\exploration_hierachical_gamespaces\\AIPlayerAgent_LL\\AIPlayerAgent_LL-199998.pt"
+                ]
+            },
+            {
+                "steps": 249997,
+                "file_path": "results\\exploration_hierachical_gamespaces\\AIPlayerAgent_LL\\AIPlayerAgent_LL-249997.onnx",
+                "reward": 1.7920500727310724,
+                "creation_time": 1661947536.0564861,
+                "auxillary_file_paths": [
+                    "results\\exploration_hierachical_gamespaces\\AIPlayerAgent_LL\\AIPlayerAgent_LL-249997.pt"
+                ]
+            },
+            {
+                "steps": 299993,
+                "file_path": "results\\exploration_hierachical_gamespaces\\AIPlayerAgent_LL\\AIPlayerAgent_LL-299993.onnx",
+                "reward": 1.7948553763598287,
+                "creation_time": 1661947655.7842455,
+                "auxillary_file_paths": [
+                    "results\\exploration_hierachical_gamespaces\\AIPlayerAgent_LL\\AIPlayerAgent_LL-299993.pt"
+                ]
+            },
+            {
+                "steps": 349990,
+                "file_path": "results\\exploration_hierachical_gamespaces\\AIPlayerAgent_LL\\AIPlayerAgent_LL-349990.onnx",
+                "reward": 1.7950824161945844,
+                "creation_time": 1661947775.913304,
+                "auxillary_file_paths": [
+                    "results\\exploration_hierachical_gamespaces\\AIPlayerAgent_LL\\AIPlayerAgent_LL-349990.pt"
+                ]
+            },
+            {
+                "steps": 399980,
+                "file_path": "results\\exploration_hierachical_gamespaces\\AIPlayerAgent_LL\\AIPlayerAgent_LL-399980.onnx",
+                "reward": 1.65025037729134,
+                "creation_time": 1661947910.8510275,
+                "auxillary_file_paths": [
+                    "results\\exploration_hierachical_gamespaces\\AIPlayerAgent_LL\\AIPlayerAgent_LL-399980.pt"
+                ]
+            },
+            {
+                "steps": 449992,
+                "file_path": "results\\exploration_hierachical_gamespaces\\AIPlayerAgent_LL\\AIPlayerAgent_LL-449992.onnx",
+                "reward": 1.7906965732574462,
+                "creation_time": 1661948029.739893,
+                "auxillary_file_paths": [
+                    "results\\exploration_hierachical_gamespaces\\AIPlayerAgent_LL\\AIPlayerAgent_LL-449992.pt"
+                ]
+            },
+            {
+                "steps": 499990,
+                "file_path": "results\\exploration_hierachical_gamespaces\\AIPlayerAgent_LL\\AIPlayerAgent_LL-499990.onnx",
+                "reward": 1.7976760759353638,
+                "creation_time": 1661948150.1101048,
+                "auxillary_file_paths": [
+                    "results\\exploration_hierachical_gamespaces\\AIPlayerAgent_LL\\AIPlayerAgent_LL-499990.pt"
+                ]
+            },
+            {
+                "steps": 549995,
+                "file_path": "results\\exploration_hierachical_gamespaces\\AIPlayerAgent_LL\\AIPlayerAgent_LL-549995.onnx",
+                "reward": 1.7816136782703875,
+                "creation_time": 1661948267.9304576,
+                "auxillary_file_paths": [
+                    "results\\exploration_hierachical_gamespaces\\AIPlayerAgent_LL\\AIPlayerAgent_LL-549995.pt"
+                ]
+            },
+            {
+                "steps": 599999,
+                "file_path": "results\\exploration_hierachical_gamespaces\\AIPlayerAgent_LL\\AIPlayerAgent_LL-599999.onnx",
+                "reward": 1.793340587679715,
+                "creation_time": 1661948388.2126472,
+                "auxillary_file_paths": [
+                    "results\\exploration_hierachical_gamespaces\\AIPlayerAgent_LL\\AIPlayerAgent_LL-599999.pt"
+                ]
+            },
+            {
+                "steps": 649997,
+                "file_path": "results\\exploration_hierachical_gamespaces\\AIPlayerAgent_LL\\AIPlayerAgent_LL-649997.onnx",
+                "reward": 1.7966474890708923,
+                "creation_time": 1661948509.3583992,
+                "auxillary_file_paths": [
+                    "results\\exploration_hierachical_gamespaces\\AIPlayerAgent_LL\\AIPlayerAgent_LL-649997.pt"
+                ]
+            },
+            {
+                "steps": 699995,
+                "file_path": "results\\exploration_hierachical_gamespaces\\AIPlayerAgent_LL\\AIPlayerAgent_LL-699995.onnx",
+                "reward": 1.7976523647705713,
+                "creation_time": 1661948629.817153,
+                "auxillary_file_paths": [
+                    "results\\exploration_hierachical_gamespaces\\AIPlayerAgent_LL\\AIPlayerAgent_LL-699995.pt"
+                ]
+            },
+            {
+                "steps": 749998,
+                "file_path": "results\\exploration_hierachical_gamespaces\\AIPlayerAgent_LL\\AIPlayerAgent_LL-749998.onnx",
+                "reward": 1.7985003775010728,
+                "creation_time": 1661948750.8653367,
+                "auxillary_file_paths": [
+                    "results\\exploration_hierachical_gamespaces\\AIPlayerAgent_LL\\AIPlayerAgent_LL-749998.pt"
+                ]
+            },
+            {
+                "steps": 799994,
+                "file_path": "results\\exploration_hierachical_gamespaces\\AIPlayerAgent_LL\\AIPlayerAgent_LL-799994.onnx",
+                "reward": 1.7984619868266118,
+                "creation_time": 1661948877.2949004,
+                "auxillary_file_paths": [
+                    "results\\exploration_hierachical_gamespaces\\AIPlayerAgent_LL\\AIPlayerAgent_LL-799994.pt"
+                ]
+            },
+            {
+                "steps": 849999,
+                "file_path": "results\\exploration_hierachical_gamespaces\\AIPlayerAgent_LL\\AIPlayerAgent_LL-849999.onnx",
+                "reward": 1.798759276655656,
+                "creation_time": 1661949001.8132303,
+                "auxillary_file_paths": [
+                    "results\\exploration_hierachical_gamespaces\\AIPlayerAgent_LL\\AIPlayerAgent_LL-849999.pt"
+                ]
+            },
+            {
+                "steps": 899992,
+                "file_path": "results\\exploration_hierachical_gamespaces\\AIPlayerAgent_LL\\AIPlayerAgent_LL-899992.onnx",
+                "reward": 1.7983275453249614,
+                "creation_time": 1661949123.373204,
+                "auxillary_file_paths": [
+                    "results\\exploration_hierachical_gamespaces\\AIPlayerAgent_LL\\AIPlayerAgent_LL-899992.pt"
+                ]
+            },
+            {
+                "steps": 949994,
+                "file_path": "results\\exploration_hierachical_gamespaces\\AIPlayerAgent_LL\\AIPlayerAgent_LL-949994.onnx",
+                "reward": 1.7975937628320284,
+                "creation_time": 1661949238.0721805,
+                "auxillary_file_paths": [
+                    "results\\exploration_hierachical_gamespaces\\AIPlayerAgent_LL\\AIPlayerAgent_LL-949994.pt"
+                ]
+            },
+            {
+                "steps": 999999,
+                "file_path": "results\\exploration_hierachical_gamespaces\\AIPlayerAgent_LL\\AIPlayerAgent_LL-999999.onnx",
+                "reward": 1.7990318590402603,
+                "creation_time": 1661949351.5810175,
+                "auxillary_file_paths": [
+                    "results\\exploration_hierachical_gamespaces\\AIPlayerAgent_LL\\AIPlayerAgent_LL-999999.pt"
+                ]
+            },
+            {
+                "steps": 1000019,
+                "file_path": "results\\exploration_hierachical_gamespaces\\AIPlayerAgent_LL\\AIPlayerAgent_LL-1000019.onnx",
+                "reward": 1.7990208811098987,
+                "creation_time": 1661949351.8658445,
+                "auxillary_file_paths": [
+                    "results\\exploration_hierachical_gamespaces\\AIPlayerAgent_LL\\AIPlayerAgent_LL-1000019.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1000019,
+            "file_path": "results\\exploration_hierachical_gamespaces\\AIPlayerAgent_LL.onnx",
+            "reward": 1.7990208811098987,
+            "creation_time": 1661949351.8658445,
+            "auxillary_file_paths": [
+                "results\\exploration_hierachical_gamespaces\\AIPlayerAgent_LL\\AIPlayerAgent_LL-1000019.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.28.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}
